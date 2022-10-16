@@ -1,0 +1,14 @@
+Commands I used:
+
+1. cd Desktop
+2. mkdir 19301250
+3. ls
+4. pwd
+5. Download sh.txt file
+6. wc -w sh.txt
+7. wc -m sh.txt
+8. wc sh.txt
+9. tr -sc 'A-Za-z' '\n' < sh.txt
+10. tr -sc ’A-Za-z’ ’\n’ < sh.txt | sort | uniq -c
+11. tr -sc 'A-Za-z' '\n' < sh.txt | tr A-Z a-z | sort | uniq -c
+12. tr -sc 'A-Za-z' '\n' < sh.txt | tr A-Z a-z | sort | uniq -c | sort -n -r
