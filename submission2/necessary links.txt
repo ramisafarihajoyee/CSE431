@@ -2,7 +2,7 @@ Youtube video link:
 https://youtu.be/vQAI1w5UWYQ
 
 Github link:
-
+https://github.com/ramisafarihajoyee/CSE431/tree/main/submission2
 
 Drive folder link if youtube video link or github link does not work:
 https://drive.google.com/drive/folders/1WeCrV_ileGdCeOFteG4H-X4MjAagJai5?usp=sharing
